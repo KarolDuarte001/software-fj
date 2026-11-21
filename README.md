@@ -12,7 +12,7 @@ A través de una estructura orientada a objetos, el sistema permite relacionar c
 
 **Curso:** Programación (213023)
 
-**Grupo:** 213023A_2204
+**Grupo:** 213023_553
 
 **Estudiante:** Karol Daniela Duarte Centeno
 
