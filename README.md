@@ -8,6 +8,18 @@ A través de una estructura orientada a objetos, el sistema permite relacionar c
 
 ---
 
+**UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA (UNAD)**
+
+**Curso:** Programación (213023)
+
+**Grupo:** 213023A_2204
+
+**Estudiante:** Karol Daniela Duarte Centeno
+
+*(Desarrollado de forma **individual**)*
+
+---
+
 ## ¿Qué puedes gestionar?
 
 El sistema reúne tres áreas principales de operación:
